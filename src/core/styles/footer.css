@@ -1,0 +1,15 @@
+.footer {
+  @apply py-4 bg-muted text-muted-foreground text-center border-t border-muted;
+}
+
+.footer .language-switcher {
+  @apply mt-2;
+}
+
+.footer .language-button {
+  @apply bg-secondary text-secondary-foreground hover:bg-primary hover:text-primary-foreground;
+}
+
+.footer .dropdown-menu {
+  @apply mt-1;
+}
