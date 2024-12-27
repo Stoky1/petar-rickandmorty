@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Petar Rick and Morty App
 
 This is a web application that fetches and displays data from the [Rick and Morty API](https://rickandmortyapi.com/). It allows users to explore the characters from the Rick and Morty universe, view detailed information about each character, and filter the results based on various criteria.
@@ -31,3 +32,7 @@ To run this app locally, follow these steps:
 1. **Install dependencies**:
    ```bash
    pnpm install
+=======
+# petar-rickandmorty
+This is a web application that fetches and displays data from the [Rick and Morty API]
+>>>>>>> d0ccca37412bb4012be251b1ff091a3a541a1210
