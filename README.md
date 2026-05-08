@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Petar Rick and Morty App
 
-This is a web application that fetches and displays data from the [Rick and Morty API](https://rickandmortyapi.com/). It allows users to explore the characters from the Rick and Morty universe, view detailed information about each character, and filter the results based on various criteria.
+This is a web application that fetches and displays data from the [Rick and Morty]. It allows users to explore the characters from the Rick and Morty universe, view detailed information about each character, and filter the results based on various criteria.
 
 ## 🚀 Features
 
